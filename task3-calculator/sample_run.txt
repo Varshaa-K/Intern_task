@@ -1,0 +1,21 @@
+Name: Maya
+Card balance: 100.00
+Wallet cash: 50.00
+Cost of one meal: 8.50
+One-way commute cost: 12.00
+Number of working days: 5
+Start date (dd/mm/yyyy): 23/11/2026
+
+Office Commute Summary
+Name: Maya
+Working days: 5
+Start date: 23/11/2026
+End date: 27/11/2026
+Daily travel cost (card): $12.00
+Total travel cost (card): $60.00
+Daily meal cost (wallet): $8.50
+Total meal cost (wallet): $42.50
+Card balance after travel: $40.00
+Wallet balance after meals: $7.50
+Card balance is sufficient.
+Wallet cash is sufficient.
